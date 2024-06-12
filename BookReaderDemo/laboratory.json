@@ -1,37 +1,20 @@
 {
     "ppi": 100,
     "data": [
-        [
-            {
-                "width": 800,
-                "height": 1200,
-                "uri": "//archive.org/download/BookReader/img/page001.jpg"
-            }
-        ],
-        [
-            {
-                "width": 800,
-                "height": 1200,
-                "uri": "//archive.org/download/BookReader/img/page002.jpg"
-            },
-            {
-                "width": 800,
-                "height": 1200,
-                "uri": "//archive.org/download/BookReader/img/page003.jpg"
-            }
-        ],
-        [
-            {
-                "width": 800,
-                "height": 1200,
-                "uri": "//archive.org/download/BookReader/img/page004.jpg"
-            },
-            {
-                "width": 800,
-                "height": 1200,
-                "uri": "//archive.org/download/BookReader/img/page005.jpg"
-            }
-        ]
+                [
+                  { "width": 2550, "height": 3300,  "uri": "//fapestniegd.xen.prgmr.com/strategic_review/Strv101/0.png" },
+                  { "width": 2550, "height": 3300, "uri": "//fapestniegd.xen.prgmr.com/strategic_review/Strv101/1.png" }
+                ],
+                [
+                  { "width": 2550, "height": 3300, "uri": "//fapestniegd.xen.prgmr.com/strategic_review/Strv101/2.png" },
+                  { "width": 2550, "height": 3300,
+                        "uri": "//fapestniegd.xen.prgmr.com/strategic_review/Strv101/3.png" }
+                ],
+                [
+                  { "width": 2550, "height": 3300, "uri": "//fapestniegd.xen.prgmr.com/strategic_review/Strv101/4.png" },
+                  { "width": 2550, "height": 3300, "uri": "//fapestniegd.xen.prgmr.com/strategic_review/Strv101/5.png" }
+                ]
+       ]
     ],
     "bookTitle": "BookReader Demo",
     "bookUrl": "../index.html",
