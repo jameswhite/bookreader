@@ -35,7 +35,7 @@
             "value": "This demo shows how one could use BookReader with their own content."
         }
     ],
-    "imagesBaseURL": "../BookReader/images/",
+    "imagesBaseURL": "//fapestniegd.xen.prgmr.com/strategic_review/Strv101/",
     "ui": "full",
     "el": "#BookReader"
 }
