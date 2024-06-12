@@ -4,6 +4,7 @@ const url = 'http://127.0.0.1:8000/BookReaderDemo/laboratory.json';
 function instantiateBookReader(selector, extraOptions) {
   selector = selector || '#BookReader';
   extraOptions = extraOptions || {};
+  options = options || {};
 
   // Fetch the JSON file and parse it into a JavaScript object
   fetch(url, { method: 'GET' }).then(function(response) { return response.json(); }).then(function(json) { options = json; });
