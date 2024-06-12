@@ -6,7 +6,7 @@ function instantiateBookReader(selector, extraOptions) {
   extraOptions = extraOptions || {};
 
   // Fetch the JSON file and parse it into a JavaScript object
-  let options;
+  var options = {};
   fetch(url, { method: 'GET' })
     .then(function(response) { return response.json(); })
     .then( function(json) {
