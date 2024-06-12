@@ -4,9 +4,15 @@
 // Copyright(c)2008-2009 Internet Archive. Software license AGPL version 3.
 
 // Create the BookReader object
+let options2;
 function instantiateBookReader(selector, extraOptions) {
   selector = selector || '#BookReader';
   extraOptions = extraOptions || {};
+  fetch(url, { method: 'GET' })
+    .then(function(response) { return response.json(); })
+    .then( function(json) {
+      console.log(json); options2 = json; console.log(options);
+  console.log(options2);
   var options = {
     ppi: 100,
     data: [
