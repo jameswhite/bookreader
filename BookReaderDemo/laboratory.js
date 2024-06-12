@@ -7,10 +7,14 @@ function instantiateBookReader(selector, extraOptions) {
 
   // Fetch the JSON file and parse it into a JavaScript object
   let options;
-  fetch(url, { method: 'GET' }).then(function(response) { return response.json(); }).then( function(json) { console.log(json); options = json; console.log(options); });
-
+  fetch(url, { method: 'GET' })
+    .then(function(response) { return response.json(); })
+    .then( function(json) {
+      console.log(json); options = json; console.log(options); 
   console.log(options);
   $.extend(options, extraOptions);
   var br = new BookReader(options);
   br.init();
+  });
+
 }
