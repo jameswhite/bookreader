@@ -2,7 +2,7 @@
 // This file shows the minimum you need to provide to BookReader to display a book
 //
 // Copyright(c)2008-2009 Internet Archive. Software license AGPL version 3.
-
+const url = 'http://127.0.0.1:8000/BookReaderDemo/laboratory.json';
 // Create the BookReader object
 let options2;
 function instantiateBookReader(selector, extraOptions) {
