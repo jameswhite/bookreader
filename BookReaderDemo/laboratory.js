@@ -1,5 +1,5 @@
 const url = 'http://127.0.0.1:8000/BookReaderDemo/laboratory.json';
-options = {}
+var options = {}
 
 // Create the BookReader object
 function instantiateBookReader(selector, extraOptions) {
