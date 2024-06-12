@@ -52,5 +52,6 @@ function instantiateBookReader(selector, extraOptions) {
   };
   $.extend(options, extraOptions);
   var br = new BookReader(options);
+  console.log(options);
   br.init();
 }
