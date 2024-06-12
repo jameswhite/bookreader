@@ -11,8 +11,10 @@ function instantiateBookReader(selector, extraOptions) {
   fetch(url, { method: 'GET' })
     .then(function(response) { return response.json(); })
     .then( function(json) {
-      console.log(json); options2 = json; console.log(options2);
-  console.log(options2);
+      console.log(json);
+      options2 = json;
+      console.log(options2);
+  }
   var options = {
     ppi: 100,
     data: [
