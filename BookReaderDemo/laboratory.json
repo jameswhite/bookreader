@@ -2,7 +2,7 @@
     "ppi": 300,
     "data": [
                 [
-                  { "width": 2550, "height": 3300,  "uri": "0.png" }
+                  { "width": 2550, "height": 3300,  "uri": "//fapestniegd.xen.prgmr.com/strategic_review/Strv101/0.png" }
                 ],
                 [
                   { "width": 2550, "height": 3300, "uri": "//fapestniegd.xen.prgmr.com/strategic_review/Strv101/1.png" },
@@ -16,26 +16,8 @@
                   { "width": 2550, "height": 3300, "uri": "//fapestniegd.xen.prgmr.com/strategic_review/Strv101/5.png" }
                 ]
     ],
-    "bookTitle": "BookReader Demo",
-    "bookUrl": "../index.html",
-    "bookUrlText": "Back to Demos",
-    "bookUrlTitle": "This is the book URL title",
-    "thumbnail": "//archive.org/download/BookReader/img/page014.jpg",
-    "metadata": [
-        {
-            "label": "Title",
-            "value": "Open Library BookReader Presentation"
-        },
-        {
-            "label": "Author",
-            "value": "Internet Archive"
-        },
-        {
-            "label": "Demo Info",
-            "value": "This demo shows how one could use BookReader with their own content."
-        }
-    ],
-    "imagesBaseURL": "//fapestniegd.xen.prgmr.com/strategic_review/Strv101/",
+    "bookTitle": "Laboratory",
+    "bookUrl": "../BookReaderDemo/laboratory.html",
     "ui": "full",
     "el": "#BookReader"
 }
