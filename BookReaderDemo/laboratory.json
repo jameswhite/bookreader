@@ -2,17 +2,11 @@
     "ppi": 300,
     "data": [
                 [
-                  { "width": 2550, "height": 3300,  "uri": "//fapestniegd.xen.prgmr.com/strategic_review/Strv101/0.png" }
-                ],
-                [
+                  { "width": 2550, "height": 3300,  "uri": "//fapestniegd.xen.prgmr.com/strategic_review/Strv101/0.png"},
                   { "width": 2550, "height": 3300, "uri": "//fapestniegd.xen.prgmr.com/strategic_review/Strv101/1.png" },
-                  { "width": 2550, "height": 3300, "uri": "//fapestniegd.xen.prgmr.com/strategic_review/Strv101/2.png" }
-                ],
-                [
+                  { "width": 2550, "height": 3300, "uri": "//fapestniegd.xen.prgmr.com/strategic_review/Strv101/2.png" },
                   { "width": 2550, "height": 3300, "uri": "//fapestniegd.xen.prgmr.com/strategic_review/Strv101/3.png" },
-                  { "width": 2550, "height": 3300, "uri": "//fapestniegd.xen.prgmr.com/strategic_review/Strv101/4.png" }
-                ],
-                [
+                  { "width": 2550, "height": 3300, "uri": "//fapestniegd.xen.prgmr.com/strategic_review/Strv101/4.png" },
                   { "width": 2550, "height": 3300, "uri": "//fapestniegd.xen.prgmr.com/strategic_review/Strv101/5.png" }
                 ]
     ],
